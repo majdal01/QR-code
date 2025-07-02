@@ -52,8 +52,8 @@ p {
 }
 
 .qr-code-image {
-    max-width: 288px;
-    border-radius: 10px;
+    max-width: 18rem;
+    border-radius: 0.625rem;
 }
 
 
