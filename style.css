@@ -43,9 +43,9 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 499px;
-    width: 320px;
-    border-radius: 20px;
+    height: 31.188rem;
+    width: 20rem;
+    border-radius: 1.25rem;
     background-color: var(--white);
     padding: 1rem;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
@@ -60,9 +60,9 @@ p {
 
 
 .attribution { 
-    font-size: 11px; 
+    font-size: 0.688rem; 
     text-align: center; 
-    margin-top: 16px;
+    margin-top: 1rem;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
