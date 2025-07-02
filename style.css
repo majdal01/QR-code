@@ -34,7 +34,7 @@ p {
     font-weight: 400;
     font-size: clamp(0.875rem, 2.5vw, 0.958rem); /* 15px */
     line-height: 140%;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.013rem;
     background-color: inherit;
     text-align: center;
 }
