@@ -26,7 +26,7 @@ h1 {
     line-height: 120%;
     background-color: inherit;
     text-align: center;
-    padding: 1.5rem 0 1rem;
+    padding: 1.5rem 1rem 1rem;
 }
 
 p {
@@ -37,6 +37,7 @@ p {
     letter-spacing: 0.013rem;
     background-color: inherit;
     text-align: center;
+    padding: 0 1rem;
 }
 
 .container {
@@ -49,6 +50,7 @@ p {
     background-color: var(--white);
     padding: 1rem;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    
 }
 
 .qr-code-image {
